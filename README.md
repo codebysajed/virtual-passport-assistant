@@ -22,8 +22,8 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/bangladesh-virtual-passport.git
-cd bangladesh-virtual-passport
+https://github.com/codebysajed/virtual-passport-assistant.git
+cd virtual-passport-assistant
 ```
 
 2. Install dependencies (Python 3.10+ recommended) via `requirements.txt`:
